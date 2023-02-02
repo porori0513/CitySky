@@ -295,9 +295,9 @@
 			"music/bbangsang"
 		]
 	},
-	"music.woigwoig": {
+	"music.woig": {
 		"sounds": [
-			"music/woigwoig"
+			"music/woig"
 		]
 	}
 }
